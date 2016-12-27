@@ -1,0 +1,147 @@
+OS
+
+Unitytweaktools		Rechercher sur le web pour plus de précisions
+-> son complémentaire	"	"	"	"	"	"    "
+
+
+CLASSIQUES
+
+Chromium
+Gmail			|>
+Youtube			|> extiste-t-il une unique application compte google ?
+
+
+INDICATEURS
+
+Psensor			indicateur de senseurs
+My-wheather-indicator	Météo (nom d'application incorrecte pour téléchargement)
+indicator-multiload	indicateur pour surveiller les différentts composants système
+
+CONSOLE/TERMINAL
+
+terminator		Permet de gérer plusieurs terminaux
+byobu terminal		Connexions entre les terminaux? +terminal amélioré
+
+
+PRATIQUE
+
+Screen ruler		Echelle de mesures
+Convert all		Convertisseur de mesures
+Redshift		Change la luminosité de l'écran en fonction de la journée (pas au point)
+Kcharselect		Sélection de tous les caractères unicode
+
+Internet DJ Console	Console radio DJ
+
+
+PROGRAMATION
+
+CodeBlocks IDE		Programation/développement
+Arduino IDE		électronique
+
+Synaptic		Gestionnaire de paquets
+Gparted			Editeur de partitions
+
+
+
+SCIENCES
+
+Tableau periodique	tableau periodique des éléments
+Stellarium		environnement virtuel univers stellaire
+Celestia		environnement virtuel univers stellaire + déplacements
+
+
+EDUCATION
+
+Artha			Dictionnaire de synonymes
+Lernid			Conférences/RDV Ubuntu
+Anki			répétition espacée (aprentissage mémoire)
+
+
+JEUX
+
+Unknown Horizons	simulation de stratégie / gestion et économie d'une ville au temps des navires
+Nexuiz			jeux de tir subjectif (FPS)
+OpenArena		Remake Quake
+
+A rajouter aux pgms à installer Linux:
+
+Gparted				gestionnaire partition
+Synaptic			gestionnaire paquet
+Flux (ajout par ppa)		Gestion éclairage écran
+gufw				Firewall
+Brasero ou Simpleburn		burn CD/DVD
+Quickhash			Vérifier les empreintes fichiers Très bien
+md5sum				Vérifier les empreintes fichiers en ligne de commande
+Unetbootin			Créer live USB
+multisystem			lives USB multiples (Windows, Linux, etc... sur même support)
+Stickynotes			Notes sur le bureau
+Mynotex				Notes avec fonction pour rassembler les divers RDV dans un même calendrier
+
+
+Utilitaires importants à installer (au démarrage d'un Linux)
+
+
+Utilitaires permettant d'être autonome dans les tâches et si un problème quelconque apparaît:
+
+Gparted
+
+Sudo apt-get install
+Freecad
+Krecipes
+Dropbox
+Gparted
+LibreCAD
+dconf (-tools)?
+Compiz
+Code-Blocks
+gksu
+lm-sensors + sensors-applet
+f-lux
+
+Anjuta, Brackets, CodeBlocks, Gtranslator, AT-SPI Browser, Outil de compilation pour gnome, 
+
+KGeography, Colobot, Ebook speaker, Mangler, Gespeaker
+Météo			Météo directe
+Orca			Voice controller
+Bluefish
+Anjuta
+Builder
+Codeblocks
+Testdisk
+Photorec
+
+
+
+Notes:
+.bash_aliases fichier pour modifier les alias (se trouve en tant que fichier caché (ctrl + h) dans dossier personnel)
+
+
+-------------------------
+
+System rescue cd => live USB (récup données, testdisk, ...)
+weechat => chat irc (en ligne de commande)
+
+COPIE CD
+Brasero
+gtk hash
+simpleburn
+wodim
+
+TRADUCTEUR
+gnome-translate
+gtranslator
+
+hexchat
+indicator stickynotes
+
+unetbootin
+multisystem
+openteacher
+os prober
+p7zip
+lm sensors
+sensor applet
+
+sublime text
+
+

@@ -1,0 +1,60 @@
+
+Re: disable or uninstall ubuntu prorgams that slow down the system
+
+    Uninstall using the package manager (mark for complete removal)
+
+    - bluez
+    - bluez-alsa
+    - bluez-cups
+    - bluez-gstream
+    - brittycd
+    - compiz
+    - compiz-core
+    - computer-janitor
+    - empathy
+    - empathy-common
+    - espeak
+    - espeak-data
+    - evolution
+    - evolution-common
+    - evolution-data-server (but not data-server common)
+    - evolution-webcal
+    - f-spot
+    - g-brainy
+    - gwibber
+    - gwibber-service
+    - indicator-me
+    - indicator-messages
+    - mono-2.0-gac
+    - python-ubuntuone
+    - python-ubuntuone-client
+    - python-ubuntuone-storageprotocol
+
+    - shut down , wait a minute then start ... you will see much less memory usage.
+
+    - then you can install some lighter apps, like ; gnote , mirage , gufw , abiword , Thunderbird , ubuntu-tweak ,etc. 
+
+=> Not remove: espeak, g-brainy or indicator-messages. Problem is on re-boot I now have no panels and do not know how to get them back
+
+------------------------------------------------
+Supprimer fichiers temporaires
+
+cd
+
+pwd ( donne le répertoire courant, normalement /root/ )
+
+rm -fr /tmp/* ( sans aucun espace entre les slashes et tmp et * , sinon bonsoir... )
+
+sync ( pour synchroniser le disque dur virtuel avec le disque dur réel )
+
+ls /tmp ( sans espace entre / et tmp , pour vérifier que
+tout a été éliminé. )
+
+------------------
+Dans un terminal:
+'gksudo nautilus' puis supprimer fichiers manuellement
+
+
+------------------------------------------------
+Supprimer la mémoire cache (mémoire de chargement)
+

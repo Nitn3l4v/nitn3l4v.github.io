@@ -1,0 +1,132 @@
+INTRODUCTION A L'INFO
+http://fr.openclassrooms.com
+http://fr.openclassrooms.com/informatique/cours/acces-securise-a-des-documents
+
+--------------------------------------------------------------------------------------------------
+NOMINATION DES TOUCHES CLAVIER -
+--------------------------------
+
+ALT	Alternative
+ALT GR	Alternate Graphic(s))
+CTRL	Contrôle
+
+--------------------------------------------------------------------------------------------
+RACCOURCIS CLAVIERS -
+---------------------
+
+awerty/qwerty
+MAJ + ALT GR (Alternate Graphic(s))
+MAJ + ALT
+ALT + MAJ (dans cet ordre)
+
+Computering
+CTRL + x 		Couper
+CTRL + c 		Copier
+CTRL + v 		Coller
+CRTL + z 		Annuler
+CTRL + s 		Enregistrer
+CTRL + ? 		Exit
+MAJ + selection 	Selectionner un ensemble
+ALT + TAB		Changer de fenêtre
+ALT + T			Changer de fenêtre (sens inverse)
+
+Web / Clover
+CTRL + F		Recherche de mots clés
+CTRL + T		Nouvel onglet
+CTRL + N		Nouvelle page
+CTRL + TAB		Changer d'onglet
+CTRL + TAB + MAJ	Changer d'onglet (sens inverse)
+
+
+Lowercase:minuscule
+Uppercase:majuscule
+
+--------------------------------------------------------------------------------------------------
+
+Language C:
+
+Interface: 1 lettre ou chiffre = 1octet soit une adresse (ex: fichier .txt)
+
+
+
+Environnements
+
+LINUX
+-----
+GNOME => 
+KDE => multifenetres
+
+WINDOWS
+-------
+
+APPLE
+-----
+
+
+
+--------------------------------------------------------------------------------------------------
+PPRROOJJEETTS -
+---------------
+
+
+INTERFACE GRAPHIQUE
+Suivant le projet de vie de chacun => (ex: espace dédier à la préparation de travail à l'étranger,
+comme un site internet sur le PC. Dailleurs chaque espace de travail peut etre convertible en
+format HTLM pour le partager sur le Web.
+
+Espace projets perso: affichage de divers onglets de projet personnel (exemple: aplication W.A.Y.
+-> accès au projet)
+Accès aux "bulles" (cercles ou spheres (tournable à la souris ou au doigt [écrans tactiles]
+
+Fenetre de traduction instantanée (Like google traduction => adresse html
+
+WEB
+Pages html = fichiers txt
+modifier le moteur de recherche pour qu'il charge une des diverses "sections" sur le même fichier
+texte au lieu de charger plusieurs fichiers pour plusieurs pages
+
+
+SYNTHESE VOCALE
+(ou TTS, pour Text To Speech) consiste à transformer un texte en suite de sons se rapprochant autant que possible de la parole humaine. Une des applications les plus évidentes de la synthèse vocale est l'accessibilité pour les mal-voyants. Il existe plusieurs synthétiseurs vocaux sous Linux, cette page ne se veut pas exhaustive.
+
+La synthèse vocale procède en 3 temps :
+
+-transformation du texte en phonèmes (bibliothèque phonetique a mettre en oeuvre
+	-> bibiothèque de sons correspondants; puis conversion son/phonétique ou l'inverse);
+-prosodie (ajout d'informations de prononciation : accents toniques, indication de durée, etc.) ;
+-assembler des sons pré-enregistrés en suivant les règles établies par les deux premières étapes.
+
+
+
+LINUX
+=> Exploitation des divers variantes de LInux (Ubuntu, ...) sur un même ordinateur pour
+comparaison et exploitation des diverses fonctionnalités (graphiques, techniques, utilitaires, .)
+
+
+
+--------------------------------------------------------------------------------------------------
+ORGANISATION PC -
+-----------------
+
+
+SYSTEME D'EXPLOITATION
+
+CARTE MERE	CPU	RAM	DISQUE DUR	ECRAN
+
+--------------------------------------------------------------------------------------------------
+
+Code binaire (lecture CPU) => affichage tel quel (comment le processeur lis)
+
+Puis, code C => language de programmation
+
+Multifenêtre qui affiche le language et l'origine de l'information désirée.
+
+--------------------------------------------------------------------------------------------------
+
+ESPACE DISK HDD OU SDD..
+	1 octet = 8 bits
+	ex: fichier de 32 octets = fichier de 32octets x8 = 256 bits (0,256Kb)
+	or 38 octets sur le disque dur prennent 4Ko (4096 octets) d'espace ?? (=> prise en charge
+	mémoire, gestion graphique?). La converstion "bit" "Ko" parait trompeuse?
+
+

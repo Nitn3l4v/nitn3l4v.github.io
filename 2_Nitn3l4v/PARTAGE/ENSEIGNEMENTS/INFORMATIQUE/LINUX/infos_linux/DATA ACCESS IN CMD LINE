@@ -1,0 +1,11 @@
+#(all #() are comments lines)
+
+fdisk -l
+fdisk -l | less #(to show less text in the terminal)
+mount /dev/THE.MEDIA.YOU.WANT /mnt  #(or /media/THE.MEDIA.YOU.WANT)
+cd /mnt #(or where the media is mounted)
+ls
+cd
+ls
+etc... until find what you want to open
+gedit #(or nano, vim, or geany) NAMEFILE #(lower or uppercase)

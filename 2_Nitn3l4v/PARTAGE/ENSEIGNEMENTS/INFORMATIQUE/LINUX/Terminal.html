@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html>
+<head> <meta charset="utf-8" /> <title>Nitn3l4v: terminal</title> </head>
+<body>
+<h2>INDICATIONS</h2>
+<p>
+su = "switch user" ou "substitute user"</br>
+* = tout</br>
+$ = utilisateur lambda</br>
+# = utilisateur root</br>
+"casse" = maj./min.
+</p>
+
+<h2>COMMANDES</h2>
+<tr>
+<td>shutdown -h now</td>
+<td>éteint PC</td>
+</tr>
+<tr>
+<td>shutdown -r now</td>
+<td>redémarre PC</td>
+</tr>
+<tr>
+<td>reboot</td>
+<td>redémarre PC</td>
+</tr>
+<tr>
+<td>exit</td>
+<td>ferme l'onglet courant</td>
+</tr>
+<tr>
+<td>clear</td>
+<td>remet a zero l'affichage</td>
+</tr>
+<tr>
+<td>"commande" -h</td>
+<td>aide succinte concernant la commande</td>
+</tr>
+man "commande"			aide générale concernant la commande
+info "commande"			aide complète concernant la commande
+
+https://help.ubuntu.com/community/AdvancedCommandlineHowto
+
+sudo apt-get install		installation des paquets
+sudo apt-get remove		supprime le paquet
+sudo apt-get auto-remove	supprime le paquet et ses dépendances
+sudo apt-get update		MAJ dépôts (paquets disponibles) de la distribution
+sudo apt-get upgrade		MAJ paquets
+sudo apt-get auto-clean		supprime les paquets non mis à jour dans les dépôts
+sudo apt-get clean		supprime tous  les paquets en cache
+sudo apt-get (auto)remove --purge	argument purge permet de supprimer les fichiers de configuration utilisés par le paquet supprimé
+
+gksudo nautilus => ouvre le gestionnaire de dossiers en mode root
+killall	<nomduprogramme>	ferme le programme et toutes les applications portant ce nom
+</body>
+</html>

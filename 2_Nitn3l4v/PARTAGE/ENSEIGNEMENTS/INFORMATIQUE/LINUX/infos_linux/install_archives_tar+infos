@@ -1,0 +1,20 @@
+http://www.commentcamarche.net/forum/affich-7509542-installation-d-un-paquet-tar-gz-sous-debian
+Les étapes sont : 
+
+1. téléchargement des sources (en général une archive tar.gz, mais on trouve aussi tbz2) - ça tu l'as fait 
+2. localisation de répertoire où tu as téléchargé et déplacement dans le répetoire avec la commande cd
+cd /vers/repertoire
+3. decompression des sources
+tar xzf programme.tar.gz
+si .tbz2
+tar xjf programme.tbz2
+4. cherche un fichier INSTALL et/ou README qui te diras les étapes d'installation
+
+A noter que les tar.gz peuvent également contenir le binaire comme c'est le cas pour firefox. 
+Dans ce cas pas besoin de compiler suffit de décompresser l'archive et de lancer le dit-logiciel. 
+
+Différence entre sources et archives:
+sources = archive .tar.gz. (ou .tbz2)
+paquet = .deb
+
+http://www.commentcamarche.net/faq/1328-linux-installer-les-programmes-gestion-des-paquets-compil

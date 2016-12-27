@@ -1,0 +1,7 @@
+http://www.commentcamarche.net/download/sauvegarde-56
+http://korben.info/wiki/creer_son_serveur
+http://blog.julienbourdeau.com/reflexions/monter-son-serveur-personnel-sauvegarde-partage-et-accessibilite-draft-1/
+https://homeserver-diy.net/wiki/index.php?title=Qu%E2%80%99est-ce_qu%E2%80%99un_serveur_personnel_%3F
+https://doc.ubuntu-fr.org/unison
+http://www.commentcamarche.net/download/telecharger-236-unison
+https://framasoft.org/article1929.html

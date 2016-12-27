@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Nitn3l4v =&gt; Site Perso et de Partage</title>
+    <description>mon site perso</description>
+    <link>http://localhost:4000/</link>
+    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml" />
+    <pubDate>Tue, 27 Dec 2016 16:27:17 +0100</pubDate>
+    <lastBuildDate>Tue, 27 Dec 2016 16:27:17 +0100</lastBuildDate>
+    <generator>Jekyll v3.3.1</generator>
+    
+      <item>
+        <title>Ssd</title>
+        <description>&lt;MTMarkdownOptions output=&quot;html5&quot;&gt;
+  &lt;h1&gt;Explications interfaces SSD&lt;/h1&gt;
+&lt;p&gt;ici on ne parle pas de disques durs, eh oui les disques &quot;durs&quot; ressemblent a des disques avant tout. On emploi donc le mot support de stockage (ou Hard Drive en anglais)&lt;/p&gt;
+
+&lt;table&gt;
+&lt;caption&gt;&lt;h1&gt;Explications interfaces SSD&lt;/h1&gt;&lt;/caption&gt;
+
+&lt;tr&gt;
+&lt;th&gt;Types d'interfaces&lt;/th&gt;&lt;th&gt;Commentaires&lt;/th&gt;
+&lt;/tr&gt;
+&lt;tr&gt;&lt;h2&gt;SATA&lt;/h2&gt;Interface classique pour Hard Drive 2.5&quot; et 3.5&quot;&lt;/tr&gt;
+&lt;tr&gt;&lt;h2&gt;micro SATA&lt;/h2&gt;Support de stockage 1.8&quot; Ultraportables/Tablettes&lt;/tr&gt;
+&lt;tr&gt;&lt;h2&gt;mSATA (mini)&lt;/h2&gt;&lt;em&gt;Eh oui ce n'est pas logique... mais le mini est placé inférieur au micro !&lt;/em&gt; Unité minimale de la norme SATA. Ce sont des cartes &quot;type PCI like&quot;. D'ailleurs il est possible de mettre un double de cartes mSATA dans 1 support 2.5&quot; ou 3.5&quot;. Pour faire du RAID dans un seul &quot;disque&quot; !&lt;br /&gt;
+&lt;strong&gt;M.2&lt;/strong&gt; format de cartes spécifiques (double encoches symétrique), en diverses tailles (suivant la longeur), qui est utilisé dans les cartes PCI Express de PC de bureau. On peut l'utiliser dans nos SSD aussi.&lt;/tr&gt;
+&lt;tr&gt;
+&lt;th&gt;PCI Express&lt;/th&gt;
+&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;Ces cartes sont spécifiques aux PC de bureau. Avec cela, performances garanties (Transfert I/O, Lecture/Ecriture)! &lt;strong&gt;Dépasse le Gb/s&lt;/strong&gt;&lt;/td&gt;&lt;td&gt;PCI Express 2.0 = meilleure norme actuelle pour des vitesses maximales&lt;/td&gt;
+&lt;/tr&gt;
+
+
+&lt;thead&gt;Section de l'en-tête du tableau&lt;/thead&gt;
+
+&lt;tbody&gt;Section du corps du tableau&lt;/tbody&gt;
+
+&lt;tfoot&gt;Section du pied du tableau&lt;/tfoot&gt;
+&lt;/table&gt;
+&lt;/MTMarkdownOptions&gt;
+</description>
+        <pubDate>Tue, 27 Dec 2016 00:00:00 +0100</pubDate>
+        <link>http://localhost:4000/2016/12/27/ssd.html</link>
+        <guid isPermaLink="true">http://localhost:4000/2016/12/27/ssd.html</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>Recup_favoris</title>
+        <description>&lt;p&gt;
+&lt;h3&gt;Si vous avez supprimé vos favoris:&lt;h3&gt;
+Il est utile de se servir du programme TESTDISK&lt;br /&gt;
+ou&lt;br /&gt;
+&lt;a href=&quot;https://doc.ubuntu-fr.org/extundelete&quot;&gt;EXTUNDELETE&lt;/a&gt; = uniquement pour partitions formatées ext3 et ext4
+&amp;lt;/p&amp;gt;
+&lt;p&gt;Et qu'en plus vous avez formaté votre PC...
+Utilisez d'abord &lt;a href=&quot;&quot;&gt;PHOTOREC&lt;/a&gt; puis &lt;a href=&quot;&quot;&gt;TESTDISK&lt;/a&gt;
+&lt;/p&gt;&lt;br /&gt;
+Utile également:
+&lt;ul&gt;
+&lt;li&gt;
+&lt;a href=&quot;https://doc.ubuntu-fr.org/fsck&quot;&gt;FSCK&lt;/a&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+
+Bookmarks sous LINUX:
+
+MOZILLA
+dossiers/fichiers cachés dans /home
+bookmarkbackups (dossier)
+places.sqlite
+.mozilla
+
+CHROME/CHROMIUM
+.config/google-chrome/default
+user/.config/chromium/default
+&lt;/h3&gt;&lt;/h3&gt;&lt;/p&gt;
+</description>
+        <pubDate>Tue, 27 Dec 2016 00:00:00 +0100</pubDate>
+        <link>http://localhost:4000/2016/12/27/recup_favoris.html</link>
+        <guid isPermaLink="true">http://localhost:4000/2016/12/27/recup_favoris.html</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>fonts to know</title>
+        <description>&lt;p&gt;ttf: true type font = fonctionne sous IE9 et tous les navigateurs
+svg: iphone et ipad uniquement
+woff: web open font format = nouveau format conçu pour le web, fonctionne sur tous les navigateurs.&lt;/p&gt;
+</description>
+        <pubDate>Tue, 27 Dec 2016 00:00:00 +0100</pubDate>
+        <link>http://localhost:4000/knowledge/2016/12/27/fonts.html</link>
+        <guid isPermaLink="true">http://localhost:4000/knowledge/2016/12/27/fonts.html</guid>
+        
+        
+        <category>knowledge</category>
+        
+      </item>
+    
+      <item>
+        <title>Welcome to Jekyll!</title>
+        <description>&lt;p&gt;You’ll find this post in your &lt;code class=&quot;highlighter-rouge&quot;&gt;_posts&lt;/code&gt; directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run &lt;code class=&quot;highlighter-rouge&quot;&gt;jekyll serve --watch&lt;/code&gt;, which launches a web server and auto-regenerates your site when a file is updated.&lt;/p&gt;
+
+&lt;p&gt;To add new posts, simply add a file in the &lt;code class=&quot;highlighter-rouge&quot;&gt;_posts&lt;/code&gt; directory that follows the convention &lt;code class=&quot;highlighter-rouge&quot;&gt;YYYY-MM-DD-name-of-post.ext&lt;/code&gt; and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.&lt;/p&gt;
+
+&lt;p&gt;Jekyll also offers powerful support for code snippets:&lt;/p&gt;
+
+&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-ruby&quot; data-lang=&quot;ruby&quot;&gt;&lt;span class=&quot;k&quot;&gt;def&lt;/span&gt; &lt;span class=&quot;nf&quot;&gt;print_hi&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
+  &lt;span class=&quot;nb&quot;&gt;puts&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&quot;Hi, &lt;/span&gt;&lt;span class=&quot;si&quot;&gt;#{&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;si&quot;&gt;}&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&quot;&lt;/span&gt;
+&lt;span class=&quot;k&quot;&gt;end&lt;/span&gt;
+&lt;span class=&quot;n&quot;&gt;print_hi&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;'Tom'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
+&lt;span class=&quot;c1&quot;&gt;#=&amp;gt; prints 'Hi, Tom' to STDOUT.&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
+
+&lt;p&gt;Check out the &lt;a href=&quot;http://jekyllrb.com&quot;&gt;Jekyll docs&lt;/a&gt; for more info on how to get the most out of Jekyll. File all bugs/feature requests at &lt;a href=&quot;https://github.com/jekyll/jekyll&quot;&gt;Jekyll’s GitHub repo&lt;/a&gt;. If you have questions, you can ask them on &lt;a href=&quot;https://github.com/jekyll/jekyll-help&quot;&gt;Jekyll’s dedicated Help repository&lt;/a&gt;.&lt;/p&gt;
+
+</description>
+        <pubDate>Wed, 20 Aug 2014 19:35:32 +0200</pubDate>
+        <link>http://localhost:4000/jekyll/update/2014/08/20/welcome-to-jekyll.html</link>
+        <guid isPermaLink="true">http://localhost:4000/jekyll/update/2014/08/20/welcome-to-jekyll.html</guid>
+        
+        
+        <category>jekyll</category>
+        
+        <category>update</category>
+        
+      </item>
+    
+  </channel>
+</rss>

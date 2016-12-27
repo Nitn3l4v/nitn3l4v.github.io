@@ -1,0 +1,61 @@
+/*Global*/
+@font-face
+{
+    font-family: 'Learning Curve Pro';
+    src: url('LCurve.otf');
+}
+body
+{
+    background: url(white.jpg) fixed;
+    font-family: Cantarell, "Droid Sans", Helvetica, sans-serif;
+    font-size: 1.4em;
+}
+
+/*Elements*/
+img
+{
+    float: right;
+    border: 2px solid black;
+    border-radius: 5px;
+}
+h2
+{
+    background-color: deepskyblue;
+    border-radius: 5px;
+}
+em
+{
+    color: #FFC107;
+}
+ul
+{
+    background-color: rgba(255, 190, 7, 0.4);
+    border-radius: 10px;
+    font-family: fantasy, serif;
+    font-weight: 500;
+}
+
+/*Spécifiques*/
+strong
+{
+    border-radius: 2px;
+    box-shadow: 2px 2px 4px;
+}
+h1, #signature, #menu
+{
+    text-align: center; 
+}
+#xp
+{
+    clear: both;
+}
+.interets
+{
+    font-family: 'Learning Curve Pro';
+    font-size: 1.5em;
+}
+
+a:hover
+{
+    font-weight: bold;
+}

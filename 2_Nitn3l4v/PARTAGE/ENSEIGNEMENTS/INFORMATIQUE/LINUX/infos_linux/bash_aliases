@@ -1,0 +1,18 @@
+#liste des commandes alias en français
+alias installer='sudo apt-get install'
+alias installe='sudo apt-get install'
+
+alias supprimer='sudo apt-get remove'
+alias supprimerfull='sudo apt-get purge'
+
+alias update='sudo apt-get update'
+
+alias maj='sudo apt-get update && sudo apt-get upgrade'
+alias mettre_à_jour='sudo apt-get update && sudo apt-get upgrade'
+alias mise_à_jour='sudo apt-get update && sudo apt-get upgrade'
+
+alias manuel='man'
+alias ouvre_le_manuel='man'
+
+alias relancer_alias='source ~/.bash_aliases'
+alias rafraîchir_alias='source ~/.bash_aliases'

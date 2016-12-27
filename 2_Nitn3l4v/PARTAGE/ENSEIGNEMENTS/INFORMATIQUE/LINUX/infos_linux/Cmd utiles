@@ -1,0 +1,68 @@
+Raccourcis à utiliser en cas de plantage
+
+Ce sont des raccourcis gérés directement par le noyau Linux. et sont surnommés Magic System Key.
+
+La touche ici nommée « Syst » est aussi la touche « Impr. écran ».
+
+Action	Combinaison de touches ou raccourcis clavier
+Synchronisation des disques		Alt–Syst–s
+Stoppe les programmes gentiment		Alt–Syst–e
+Tue tous les programmes			Alt–Syst–i
+Disque principal en lecture seule	Alt–Syst–u
+Redémarrage brutal de l'ordinateur	Alt–Syst–b
+Arrêt brutal de l'ordinateur		Alt–Syst–o
+
+Ref.: https://doc.ubuntu-fr.org/raccourcis_clavier
+
+
+
+
+* Instabilité connexion Wi-Fi
+
+	https://www.forum.ubuntu-fr.org/viewtopic.php?id=731701
+	=> post sur la commande iwconfig (économie d'énergie de la carte wifi)
+
+* Changer droits
+
+	chmod u+x fichier.ext
+
+* Changer les droits d'un Disque Dur externe
+
+	https://forum.ubuntu-fr.org/viewtopic.php?id=899811
+	sudo chmod -R 777 /media/"nom de ton disque dur"
+
+	ou
+
+	Avec l’environnement XFCE
+	Paramètres -> Utilitaire de disque
+	"J'ai démonté mon disque avec root et me suis connecté avec mon utilisateur, 		ensuite j'ai remonté le disque, mais en changeant son nom."
+
+	https://forum.ubuntu-fr.org/viewtopic.php?id=412586
+	autre solution
+
+
+*Effacer historique Terminal
+	
+	history -c
+
+
+*Problème transfert fichier HDD externe
+
+	taper sur google:
+	ubuntu transfert fichier erreur slice => deuxième lien ?
+https://forum.ubuntu-fr.org/viewtopic.php?id=146579
+
+*Gestion des dossiers/fichiers en mode graphique Super User
+
+	gksudo nautilus
+
+*Récupération de données
+
+	sudo textdisk (ou photorec)
+
+
+Liste du materiel:
+Paquet: inxi
+Commande: inxi -F
+
+ => https://www.debian-fr.org/t/logitheque/67397/10

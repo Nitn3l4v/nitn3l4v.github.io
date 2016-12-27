@@ -1,0 +1,15 @@
+Interface graphique Debian
+
+GNOME: Simple et efficace
+KDE: complet et très personnalisable
+XFCE: Léger et fonctionnel
+LXDE: Léger et fonctionnel
+
+Idéal: KDE + LXDE
+
+
+Gestionnaire de fenêtre
+
+OPENBOX et FLUBOX: Bureau léger et configurable
+COMPIZ: Permet des effets graphiques avancés comme la transparence et la 3D
+
